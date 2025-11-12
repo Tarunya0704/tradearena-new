@@ -1,0 +1,5 @@
+Project: tradearena-new
+Created: 2025-11-13 03:42:18
+Figma URL: https://www.figma.com/file/k5ChQkBfIq9co0684Gr5On/TRADE-ARENA-UI
+Status: Generated
+
